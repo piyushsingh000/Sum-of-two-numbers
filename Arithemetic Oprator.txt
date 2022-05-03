@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main(){
+int x,y ;
+int sum;
+cout<< "Enter your First Number";
+cin>>x;
+cout<< "Enter your second number";
+cin>>y;
+sum = x+y ;
+cout<<"sum of numbers is"<< sum ;
+return 0 ;
+}
